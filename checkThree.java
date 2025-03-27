@@ -1,3 +1,4 @@
+//check whether the given number size is three or not
 package Conditional;
 import java.util.Scanner;
 public class checkThree {
