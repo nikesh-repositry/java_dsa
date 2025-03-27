@@ -1,3 +1,4 @@
+//find the sum of each digit of a given number
 package Conditional;
 import java.util.Scanner;
 public class sumOfDigits {
