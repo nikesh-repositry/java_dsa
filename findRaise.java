@@ -1,3 +1,4 @@
+//find the power of the number both given by the user
 package Conditional;
 import java.util.Scanner;
 public class findRaise {
