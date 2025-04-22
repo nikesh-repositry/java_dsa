@@ -1,3 +1,5 @@
+//this program checks if the given number is palindrome or not
+//palindrome means that either you read the number from first or last it stays unchanged
 package dsa;
 import java.util.Scanner;
 public class PalindromeCheck {
