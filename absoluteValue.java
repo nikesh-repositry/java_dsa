@@ -1,3 +1,4 @@
+//this program prints the absolute value of given number
 package Conditional;
 import java.util.Scanner;
 //print the absolute value means modulus of the integer
