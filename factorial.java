@@ -1,3 +1,5 @@
+//this program prints the factorial of the of the given number
+//for example factorial of 5 will be 5*4*3*2*1
 package Conditional;
 import java.util.Scanner;
 public class factorial {
