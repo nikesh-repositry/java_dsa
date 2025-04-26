@@ -1,3 +1,4 @@
+//this program return addition of every number in a digit
 package Conditional;
 import java.util.Scanner;
 public class sumStreamNumbers {
