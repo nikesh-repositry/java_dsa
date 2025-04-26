@@ -1,3 +1,4 @@
+//simple code to demonstrate switch case
 package Conditional;
 import java.util.Scanner;
 public class switchCode {
