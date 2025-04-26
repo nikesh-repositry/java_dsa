@@ -1,3 +1,4 @@
+//this program shows the grade selection using nested if 
 package Conditional;
 import java.util.Scanner;
 public class grade {
