@@ -1,3 +1,4 @@
+// this is program which take three digits and return greatest of them
 package Conditional;
 import java.util.Scanner;
 public class greatestOfThree {
