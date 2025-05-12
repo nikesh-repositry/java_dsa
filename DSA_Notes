@@ -27,4 +27,11 @@ second way is direct initialization:
 int[] numbers = {1, 2, 3, 4, 5}; // Initializes with specific values
 String[] names = {"Alice", "Bob", "Charlie"};
 
+>>TYPES OF ARRAYS
+Single dimensional array= Stores elements in a linear format (one row).
+int[] arr = new int[5]; // Declaration
+int[] arr = {1, 2, 3};  // Initialization
+multi dimensional array=represents data in rows and columns, accessed via multiple indices.
+int[][] matrix = new int[3][3]; // 2D array
+int[][] jagged = new int[3][];  // Jagged array (rows with varying columns)
 
