@@ -1,3 +1,4 @@
+//ARRAY DECLARAITION IN JAVA 
 package dsa;
 
 public class array_1 {
