@@ -14,18 +14,16 @@ Random access in O(1) time
 
 >>>>declaration and initialization
 There are more than one way to declare an array in java
-Declaration syntax:
-type[] arrayName; // Preferred eg. int[] numbers;
-// or
-type arrayName[]; // Less common eg. String[] names;
-
-initialization syntax:
-first way using new operator:
-numbers = new int[5]; // Creates an array of 5 integers, initialized to 0
-names = new String[3]; // Creates an array of 3 Strings, initialized to null
-second way is direct initialization:
-int[] numbers = {1, 2, 3, 4, 5}; // Initializes with specific values
-String[] names = {"Alice", "Bob", "Charlie"};
+There are more than one way to declare an array in java
+Way1:
+Declaration only: you declare a variable that will hold an array of datatype but the size of the array isn’t defined.
+Way2;
+Declaration and instantiation: here you do both declare as well as create an array object of a specific size using new keyword. The elements are initialized to their default values (0 for numeric, false for Boolean, null for object reference).
+Way3;
+Declaration, instantiation, and initialization with values;
+You declare the array and its sized is automatically determined by the number of elements you provide within the curly braces{}.
+Way4;
+Declaration and then instantiation: you declare an array variable first and then, at a later point in your code, create the actual array object and assign it to the variable.
 
 >>TYPES OF ARRAYS
 Single dimensional array= Stores elements in a linear format (one row).
