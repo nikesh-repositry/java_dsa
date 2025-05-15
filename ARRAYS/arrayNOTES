@@ -1,0 +1,10 @@
+There are more than one way to declare an array in java
+Way1:
+Declaration only: you declare a variable that will hold an array of datatype but the size of the array isn’t defined.
+Way2;
+Declaration and instantiation: here you do both declare as well as create an array object of a specific size using new keyword. The elements are initialized to their default values (0 for numeric, false for Boolean, null for object reference).
+Way3;
+Declaration, instantiation, and initialization with values;
+You declare the array and its sized is automatically determined by the number of elements you provide within the curly braces{}.
+Way4;
+Declaration and then instantiation: you declare an array variable first and then, at a later point in your code, create the actual array object and assign it to the variable.
