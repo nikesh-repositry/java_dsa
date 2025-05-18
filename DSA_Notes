@@ -12,7 +12,7 @@ Random access in O(1) time
 
 >Why? Is array => consider that if you have to store data of any packages stored in serial manner then it can be feasible to store in array as based on index it can be retrieve update easily and many other features available.
 
->>>>declaration and initialization
+>>>>declaration and initialization;
 There are more than one way to declare an array in java
 There are more than one way to declare an array in java
 Way1:
