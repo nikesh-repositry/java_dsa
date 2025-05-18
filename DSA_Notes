@@ -5,7 +5,7 @@ A array is a data structure which is fixed sized ordered collection of elements 
 Contiguous memory allocation: array stores elements in consecutive memory locations, enabling O(1) access time via index-based addressing. For primitive types, the array stores actual values; for reference types, it stores memory addresses (reference) to objects.
 Fixed sized
 Zero-based indexing
-Homogeneous elements
+Homogeneous elements 
 Length property
 Default initialization
 Random access in O(1) time 
