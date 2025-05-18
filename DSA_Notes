@@ -1,5 +1,5 @@
-DSA IN JAVA
-1.ARRAYS 
+                  DSA IN JAVA
+           --------1.ARRAYS-------
 A array is a data structure which is fixed sized ordered collection of elements of the same data type, stored in contiguous memory locations.
 >>>Properties:
 Contiguous memory allocation: array stores elements in consecutive memory locations, enabling O(1) access time via index-based addressing. For primitive types, the array stores actual values; for reference types, it stores memory addresses (reference) to objects.
