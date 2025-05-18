@@ -25,7 +25,7 @@ You declare the array and its sized is automatically determined by the number of
 Way4;
 Declaration and then instantiation: you declare an array variable first and then, at a later point in your code, create the actual array object and assign it to the variable.
 
->>TYPES OF ARRAYS
+>>TYPES OF ARRAYS:
 Single dimensional array= Stores elements in a linear format (one row).
 int[] arr = new int[5]; // Declaration
 int[] arr = {1, 2, 3};  // Initialization
